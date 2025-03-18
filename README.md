@@ -12,39 +12,25 @@ From software development to web technologies, I thrive in spaces where logic me
 ---What Drives Me?
 
 Solving Complex Problems → Breaking things down, finding patterns, and optimizing.
-
 Building & Innovating → Exploring Python, C, and web development to bring ideas to life.
-
 Expressing Through Words → I write poetry, stories, and ghazals—because creativity isn’t limited to code.
-
 Mastering Strategy → Whether it's chess, coding, or life, every move counts.
 
 ---Tech Stack & Skills
 
 Programming: Python, C, HTML/CSS
-
 Domains: Software Development, Web Technologies
-
 Beyond Tech: Writing, Competitive Strategy, Content Creation
 
-
 ---Beyond The Screen?
-
 An Engineer who's-
-
-            Fascinated by astronomy and           philosophy—because the universe is just one giant unsolved problem.
-
-Believe in evolving every day—stagnation isn’t an option.
-
+Fascinated by astronomy and philosophy—because the universe is just one giant unsolved problem.
 
 🌍 Connect with me here!!!
 
 GitHub: Regliscus
-
 Instagram: @abhishekarcade
-
 Discord: Regliscus
-
 Twitter/X: @Regliscus
 
 -----------------------------------------------
