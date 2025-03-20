@@ -41,22 +41,3 @@
 </div>
 
 ---
-
-### 🌟 **Featured Projects**
-
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/regliscus/awesome-project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=regliscus&repo=awesome-project&theme=radical" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/regliscus/innovation-lab">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=regliscus&repo=innovation-lab&theme=radical" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
