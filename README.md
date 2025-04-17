@@ -35,9 +35,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regliscus&layout=compact&theme=radical&hide=html,css)](https://github.com/regliscus)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=regliscus&theme=react-dark&area=true&hide_border=true)](https://github.com/regliscus)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=regliscus&theme=holi-theme&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
 </div>
 
 ---
